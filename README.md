@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ELEOwner/Tailspin/_apis/build/status/ELEOwner.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ELEOwner/Tailspin/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
